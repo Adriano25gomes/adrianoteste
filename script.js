@@ -1,0 +1,1 @@
+// script.js finalizado — conteúdo incorporado anteriormente
